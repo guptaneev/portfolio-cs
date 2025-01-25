@@ -43,7 +43,7 @@ export default function Portfolio() {
           <div className="space-y-6">
             <InfoCard
               title="Neural Network Implementation"
-              description="Inspired by Andrej Karpathy's Micrograd"
+              description="Inspired by Andrej Karpathy&apos;s Micrograd"
               imageSrc="/neuralnet.png"
               imageAlt="Neural Network Visualization"
               content={
@@ -51,7 +51,7 @@ export default function Portfolio() {
                   <ul className="list-disc list-inside text-gray-700 mb-4">
                     <li>
                       Engineered a neural network and computational graph from scratch, implementing backpropagation
-                      with automatic differentiation, calculating gradients via the chain rule.
+                      with automatic differentiation and efficiently calculating gradients via the chain rule.
                     </li>
                     <li>
                       Developed data visualization tools to graphically depict the forward and backward passes,
@@ -85,8 +85,8 @@ export default function Portfolio() {
                   <ul className="list-disc list-inside text-gray-700 mb-4">
                     <li>
                       Designed and developed a mood-based playlist generator, showcasing end-to-end software development
-                      skills with detailed technical documentation (rationale, wireframes, UML diagrams, and database
-                      models).
+                      skills with detailed technical documentation (&quot;rationale&quot;, &quot;wireframes&quot;,
+                      &quot;UML diagrams&quot;, and &quot;database models&quot;).
                     </li>
                     <li>
                       Built an interactive and user-friendly GUI using Python and the customtkinter library, ensuring
@@ -114,8 +114,8 @@ export default function Portfolio() {
                     </li>
                     <li>Utilized local storage solutions to ensure seamless user data management and accessibility.</li>
                     <li>
-                      Achieved ~600 impressions in the first month, highlighting the app's strong market appeal and user
-                      engagement.
+                      Achieved ~600 impressions in the first month, highlighting the app&apos;s strong market appeal and
+                      user engagement.
                     </li>
                   </ul>
                 </>
@@ -164,8 +164,8 @@ export default function Portfolio() {
               description="Zonda Home | June 2024 - August 2024"
               content={
                 <ul className="list-disc list-inside text-gray-700">
-                  <li>Developed "Adoore", an open-source housing comparison tool</li>
-                  <li>Spearheaded creation of Zonda's 2025 Internship Program</li>
+                  <li>Developed &quot;Adoore&quot;, an open-source housing comparison tool</li>
+                  <li>Spearheaded creation of Zonda&apos;s 2025 Internship Program</li>
                 </ul>
               }
             />
@@ -174,7 +174,7 @@ export default function Portfolio() {
               description="The University of Texas at Dallas | June 2023 - August 2023"
               content={
                 <ul className="list-disc list-inside text-gray-700">
-                  <li>Analyzed Walmart's sales and customer retention datasets</li>
+                  <li>Analyzed Walmart&apos;s sales and customer retention datasets</li>
                   <li>Built interactive dashboards using Tableau and SQL</li>
                 </ul>
               }
