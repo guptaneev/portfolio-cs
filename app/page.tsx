@@ -51,7 +51,7 @@ export default function Portfolio() {
                   <ul className="list-disc list-inside text-gray-700 mb-4">
                     <li>
                       Engineered a neural network and computational graph from scratch, implementing backpropagation
-                      with automatic differentiation and efficiently calculating gradients via the chain rule.
+                      with automatic differentiation, calculating gradients via the chain rule.
                     </li>
                     <li>
                       Developed data visualization tools to graphically depict the forward and backward passes,
