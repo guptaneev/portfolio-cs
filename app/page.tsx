@@ -13,8 +13,12 @@ export default function Portfolio() {
             <AvatarImage src="/pfp.jpg" alt="Neev Gupta" className="object-cover" />
             <AvatarFallback>NG</AvatarFallback>
           </Avatar>
-          <h1 className="text-4xl font-bold text-gray-900 mb-2">Neev Gupta</h1>
-          <p className="text-xl text-gray-600 mb-4">Aspiring Software Developer | High School Senior | Austin, TX</p>
+          <h1 className="text-4xl font-bold text-gray-900 mb-2">
+            Neev Gupta
+          </h1>
+          <p className="text-xl text-gray-600 mb-4">
+            Aspiring Software Developer | High School Senior | Austin, TX
+          </p>
           <div className="flex justify-center space-x-4">
             <a href="mailto:neevgupta.austin@gmail.com" className="text-gray-600 hover:text-gray-900">
               <Mail className="w-6 h-6" />
@@ -67,7 +71,7 @@ export default function Portfolio() {
               description="Zonda Home | June 2024 - August 2024"
               content={
                 <ul className="list-disc list-inside text-gray-700">
-                    <li>Engineered "Adoore", a housing comparison tool, utilizing Angular, Java, REST API, HTML/CSS, and the BDX Web API</li>
+                    <li>Engineered {"Adoore"}, a housing comparison tool, utilizing Angular, Java, REST API, HTML/CSS, and the BDX Web API</li>
                     <li>Spearheaded creation of Zonda's 2025 Internship Program</li>
                 </ul>
               }
