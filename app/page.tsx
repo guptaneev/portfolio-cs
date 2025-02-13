@@ -72,7 +72,7 @@ export default function Portfolio() {
               content={
                 <ul className="list-disc list-inside text-gray-700">
                     <li>Engineered {"Adoore"}, a housing comparison tool, utilizing Angular, Java, REST API, HTML/CSS, and the BDX Web API</li>
-                    <li>Spearheaded creation of Zonda's 2025 Internship Program</li>
+                    <li>Spearheaded creation of Zonda&apos;s 2025 Internship Program</li>
                 </ul>
               }
             />
@@ -110,7 +110,7 @@ export default function Portfolio() {
             />
             <InfoCard
               title="Neural Network Implementation"
-              description="Inspired by Andrej Karpathy's Micrograd"
+              description="Inspired by Andrej Karpathy&apos;s Micrograd"
               imageSrc="/neuralnet.png"
               imageAlt="Neural Network Visualization"
               content={
