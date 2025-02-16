@@ -53,7 +53,6 @@ export default function Portfolio() {
               <Badge>Java</Badge>
               <Badge>JavaScript</Badge>
               <Badge>Neon</Badge>
-              <Badge>Next.js</Badge>
               <Badge>PostgreSQL</Badge>
               <Badge>Prisma ORM</Badge>
               <Badge>Python</Badge>
