@@ -8,7 +8,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Github, ExternalLink, Apple } from "lucide-react";
+import { Github, ExternalLink } from "lucide-react";
 
 interface InfoCardProps {
   title: string;
