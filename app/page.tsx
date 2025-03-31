@@ -325,7 +325,6 @@ export default function Portfolio() {
               imageSrc="/endure.png"
               imageAlt="Endure App Screenshot"
               tags={[
-                "Swift",
                 "iOS Development",
                 "Figma",
                 "App Store Connect",
