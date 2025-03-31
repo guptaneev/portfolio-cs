@@ -164,19 +164,10 @@ export default function Portfolio() {
                   JavaScript
                 </Badge>
                 <Badge className="bg-blue-500/20 text-blue-300 hover:bg-blue-500/30">
-                  Neon
-                </Badge>
-                <Badge className="bg-blue-500/20 text-blue-300 hover:bg-blue-500/30">
-                  PostgreSQL
-                </Badge>
-                <Badge className="bg-blue-500/20 text-blue-300 hover:bg-blue-500/30">
-                  Prisma ORM
-                </Badge>
-                <Badge className="bg-blue-500/20 text-blue-300 hover:bg-blue-500/30">
                   Python
                 </Badge>
                 <Badge className="bg-blue-500/20 text-blue-300 hover:bg-blue-500/30">
-                  REST API
+                  React
                 </Badge>
               </div>
             </CardContent>
@@ -357,22 +348,31 @@ export default function Portfolio() {
           <h2 className="text-2xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
             Education
           </h2>
-          <InfoCard
-            title="Westwood High School"
-            description="August 2021 - May 2025"
-            content={
-              <ul className="list-disc list-inside text-gray-300">
-                <li>GPA: 4.0/4.0 (UW), 5.802/5.0 (W) | Rank: 38/700</li>
-                <li>SAT: 1550/1600 | National Merit Commended Scholar</li>
-                <li>AP Scholar with Distinction (8 exams)</li>
-                <li>
-                  Relevant Coursework: CS III, IB CS HL, AP CSP, AP CSA, AP
-                  Calculus AB, AP Calculus BC
-                </li>
-              </ul>
-            }
-            className="bg-gray-800/50 border-gray-700"
-          />
+          <div className="grid grid-cols-1 gap-6">
+            <InfoCard
+              title="The University of Texas at Austin"
+              description="August 2025 - May 2029"
+              content={
+                <ul className="list-disc list-inside text-gray-300">
+                  <li>Bachelor of Science in Computer Science</li>
+                </ul>
+              }
+              className="bg-gray-800/50 border-gray-700"
+            />
+            <InfoCard
+              title="Westwood High School"
+              description="August 2021 - May 2025"
+              content={
+                <ul className="list-disc list-inside text-gray-300">
+                  <li>
+                    Relevant Coursework: CS III, IB CS HL, AP CSP, AP CSA, AP
+                    Calculus AB, AP Calculus BC
+                  </li>
+                </ul>
+              }
+              className="bg-gray-800/50 border-gray-700"
+            />
+          </div>
         </motion.section>
       </div>
     </div>
