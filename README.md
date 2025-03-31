@@ -27,17 +27,6 @@ Built a full-stack tool for cross-city housing comparison using Angular and Java
 
 ---
 
-## Experience
-
-- **Software Engineering Intern** @ Zonda Home (June 2024 - August 2024)
-
-  - Engineered Adoore, a housing comparison tool using Angular, Java, and REST APIs
-  - Spearheaded creation of Zonda's 2025 Internship Program
-
-- **Student Researcher** @ UT Dallas (June 2023 - August 2023)
-  - Conducted data analysis using SQL
-  - Developed interactive dashboards with Tableau
-
 ## Skills
 
 - **Languages:** Python, Java, HTML, CSS, JavaScript
