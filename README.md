@@ -1,11 +1,11 @@
 ## Featured
 
-### [Neural Network Visualization](https://github.com/guptaneev/karpathy_micrograd_from_scratch)
+### [PeCo - Generative AI in the Gym](https://www.kaggle.com/code/guptaneev/peco-gen-ai-intensive-course-capstone)
 
-_Inspired by Andrej Karpathy's Micrograd._  
-Engineered a neural network and computational graph from scratch, implementing backpropagation with automatic differentiation to efficiently calculate gradients. Developed visualization tools for forward/backward passes and validated results against PyTorch.  
-**Tech:** Python | NumPy | Matplotlib | Neural Networks  
-**🔗** [GitHub Repo](https://github.com/guptaneev/karpathy_micrograd_from_scratch)
+_Gen AI Intensive Course Capstone Project._  
+Created a Generative AI-powered personal fitness coach in a Kaggle notebook using Gemini, LangChain, and ChromaDB. Tackled barriers to gym access by combining prompt engineering, embeddings, RAG, and search grounding to deliver personalized, conversational coaching, motivation, and program guidance at scale.  
+**Tech:** Python | Gemini API | LangChain | ChromaDB  
+**🔗** [Kaggle Notebook](https://www.kaggle.com/code/guptaneev/peco-gen-ai-intensive-course-capstone) | [Blogpost](https://www.linkedin.com/pulse/how-can-we-use-generative-ai-gym-neev-gupta-iurnc/?trackingId=NTVZZCONS2eOJiMeSGJSww%3D%3D) | [YouTube Demo](https://www.youtube.com/watch?v=FMurg0jzzXQ)
 
 ---
 
