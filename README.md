@@ -43,5 +43,5 @@ If you're interested in working together, feel free to reach out!
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/neevgupta/)
-- [Personal Website](https://neevgupta.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/neevgupta/)
+[Personal Website](https://neevgupta.vercel.app)
