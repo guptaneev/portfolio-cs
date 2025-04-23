@@ -1,3 +1,5 @@
+i'm neev, an incoming cs student at ut austin!
+
 ## Featured
 
 ### [PeCo - Generative AI in the Gym](https://www.kaggle.com/code/guptaneev/peco-gen-ai-intensive-course-capstone)
